@@ -1,1 +1,2 @@
-kjfiewhgihwrig
+print ("Hello word");
+
